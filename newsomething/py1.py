@@ -6,7 +6,7 @@
 # select one instance and click ctr+shift+L
 
 # Ctrl + ] to indent
-
+# comment out Ctrl + /
 print("welou that is smth")
 print("helou wow that is smth")
 
